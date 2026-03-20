@@ -1,0 +1,13 @@
+{
+  "name": "fxtv-dashboard",
+  "version": "2.0.0",
+  "description": "FXTV Multi-Bot Trading Dashboard",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}
